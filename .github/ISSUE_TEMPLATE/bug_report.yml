@@ -6,10 +6,8 @@ body:
   - type: textarea
     id: summary
     attributes:
-      label:  
-      description: Also tell us, what did you expect to happen?
+      label: Summary
       placeholder: Tell us what you see!
-  
     validations:
       required: true
   - type: dropdown
