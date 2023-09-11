@@ -1,14 +1,13 @@
 name: Bug Report
 description: File a bug report
-title: "[Bug]: "
+title: "[BUG]: "
 labels: ["bug"]
-assignees:
-  - octocat
+assignees: ''
 body:
   - type: textarea
-    id: what-happened
+    id: summary
     attributes:
-      label: What happened?
+      label: ''
       description: Also tell us, what did you expect to happen?
       placeholder: Tell us what you see!
   
